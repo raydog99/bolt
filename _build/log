@@ -1,0 +1,5 @@
+# dune init project synapse
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/raymonddeng/Desktop/github/synapse/synapse
+# Auto-detected concurrency: 8

@@ -1,0 +1,4 @@
+(executable
+ (public_name synapse)
+ (name main)
+ (libraries synapse))
