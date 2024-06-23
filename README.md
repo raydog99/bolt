@@ -1,2 +1,3 @@
-# synapse
-Neuroscience and physics-informed cognitive models
+# bolt
+
+EBM + JEPA
